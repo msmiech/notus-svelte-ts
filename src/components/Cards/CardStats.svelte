@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
   // core components
 
   export let statSubtitle = "Traffic";
