@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
   // core components
   import CardLineChart from "components/Cards/CardLineChart.svelte";
   import CardBarChart from "components/Cards/CardBarChart.svelte";

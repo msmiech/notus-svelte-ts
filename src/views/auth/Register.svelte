@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
   // core components
   const github = "../assets/img/github.svg";
   const google = "../assets/img/google.svg";

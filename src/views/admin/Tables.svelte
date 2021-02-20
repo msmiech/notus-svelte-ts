@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
   // core components
   import CardTable from "components/Cards/CardTable.svelte";
   export let location;

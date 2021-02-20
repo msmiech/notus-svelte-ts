@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
   // library for creating dropdown menu appear on click
   import { createPopper } from "@popperjs/core";
 

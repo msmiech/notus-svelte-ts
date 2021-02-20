@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
   // core components
   import TableDropdown from "components/Dropdowns/TableDropdown.svelte";
 

@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
   // core components
   import MapExample from "components/Maps/MapExample.svelte";
   export let location;
